@@ -48,37 +48,19 @@ Coding
 
 Python
 /r/python
-/r/learnpython
 
 
 
 /r/technology
-  /r/internetisbeautiful
   /r/futurology
-  /r/pcmasterrace
-  /r/buildapc
-  /r/talesfromtechsupport
-  /r/netsec
 /r/gamedev
 /r/design
 /r/engineering
-  /r/jailbreak
 /r/compsci
 /r/tech
 /r/hacking
-  /r/imaginarytechnology
-/r/privacy
-/r/torrents
 /r/networking
 /r/infographics
-  /r/piracy
-  /r/EngineeringPorn
-  /r/cableporn
-/r/simulated
-  /r/onions
-  /r/unixporn
-  /r/crackwatch
   /r/php
-  /r/aboringdystopia
 /r/virtualreality
 /r/opensource
