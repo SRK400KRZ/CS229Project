@@ -1,0 +1,668 @@
+
+Label 1, Count 2
+Hi all,
+
+Let's say I have a hollow tube with a rope wound around it, one end of the rope is fixed and I pull on the other end of the rope, this will tension the rope around the tube (which can't rotate). This tension will then exert pressure on the tube surface.
+
+If the tube wall is too thin, it will buckle. How would I go about calculating the minimum wall thickness of the tube for a certain rope tension, so that it won't fail?
+
+I'm familiar with the Eytelwein equation and am also curious if/how this problem relates to it.
+
+Thanks in advance!
+
+Label 2, Count 2
+
+
+
+How common is EMI issues on spaceships and is it something that is a easy fix?  Reason I ask is recently Virgin Galactic’s VSS unity had a EMI issue that resulted in the aborted December flight and February flight.  They plan to fly in May, but is that even possible with a EMI issue?
+
+Label 3, Count 2
+Hi. I live in earthquake country in a two-story wood frame house and last year I hired a structural engineer to draw up some plans for a seismic retrofit/upgrade. At that time, I discovered along with his EIT an odd feature of the concrete foundation: on one side of the house, the foundation must be at least 12” deep/wide (inside-outside) and the very short cripple walls (~12”)are not directly under the exterior wall. Instead, the exterior wall is roughly 8” further out. So the cripple walls aren’t directly bearing the load of the exterior wall as I expected. I passed this on to the engineer but he drew up retrofit plans that make no mention of the exterior walls, and only reference the cripple walls visible and accessible from the basement. Is this an oversight? I ask because I have already had to point out two oversights/errors in the documentation. 
+
+Any thoughts greatly appreciated.
+
+Label 4, Count 2
+My roommate and I were discussing 2 and 4 stroke engines the other night. The question came up, would it be possible to construct an engine so that one side is 2 stroke and the other side is 4 stroke. We came down to the answer of if you had a "V" config and the same crankshaft was timed to two different camshafts and had scavenge air on the 2 stroke side and intake valves on the 4 stroke side it could possibly work... but the balance would be terrible and would be a nightmare to trouble shoot if there was an issue with it. Any thoughts on how this could be done?
+
+Label 5, Count 2
+Not sure if this is the proper place to pose this question, but I figure this community might be able to provide some insight :)
+
+Yesterday a crew placed down fresh asphalt on my residential road. It looked great! I was super pleased that this was happening, but today I look out my window and they're tearing it right back up! There's a machine out front just grinding it up, and shooting it out the back into a pick up truck. I'm not knowledgeable in asphalt techniques, but on the surface it just really seems like a waste of tax payer dollars :P 
+
+Anyone have a clue why a crew would want to lay fresh asphalt, then dig it back up the next day? Could there have been a problem with the way it was laid down?
+
+Thanks all!
+
+Label 6, Count 2
+Hi all,
+
+So I need some input. I’m currently working on a 2d bird simulator where you play as a bird and can hunt, drink water, get new abilties etc. You will be able to get more birds as you progress with each bird. My question is, ideally what bird would you like for the first bird and would you rather you start from a hatchling alone and need to survivor over time by growing to a full adult where you survive and mate and choose and next and the cycle possibly repeats or you could defend the nest and feed the birds but if you die you switch over to the hatchlings you made and every generation of birds you get to pick an upgrade / new ability. The other option would be simpler where you simply hunt and get water and start / play as an adult and still defend the nest and what not but if you die, you just go back to the previous night save. 
+
+Any input is appreciated!
+
+Label 7, Count 2
+https://iaoip.org/iso279descrip/
+
+Just saw this from someone I know, seems ISO has made an innovation standard to standardize "terminology tools and methods and interactions between relevant parties to enable innovation". 
+
+Is it me, or does innovation typically come from non-standardized processes and sources? I understand the rigid ISO/IATF/LMNQP processes for established systems to ensure repeatability, and needed repeatability in new processes to prove they aren't a fluke, and maybe this is a naming issue, but this seems counterproductive.
+
+Label 8, Count 4
+So a propeller shaft made of stainless steel failed via mainly rotational bending but also torsion. I've tried to do some fracture analysis but tbh I'm stumped.
+
+Idk how you would make a shaft that wouldnt fail the same way? Is changing materials to something that can withstand more stress the only way 🤔
+
+Label 9, Count 1382
+There are only 4 rules:
+
+1. **No show-off posts.** 
+-
+This includes *general feedback*, WIP, screenshots, kickstarters, blogs, memes, "play my game", twitch streams. 
+
+Use [/r/gamedev discord](https://discord.gg/reddit-gamedev), /r/indiegames, /r/playmygame or /r/gamedevscreens, or one of the weekly threads such as Screenshot Saturday.
+
+
+2. **Be specific about your question.** 
+-
+If you are a beginner, [read the FAQ](https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started). Screenshots are OK so long as it illustrates your *specific issues*.
+
+
+3. **Do not solicit employment.** 
+-
+Use /r/inat or /r/gameDevClassifieds. This includes offering free work.
+
+4. **No paid assets.** 
+-
+Use [reddit ads instead](https://www.redditinc.com/advertising). Free assets OK, be sure to specify license.
+
+---
+
+We kindly ask you to consider the rules of the sub before posting a new thread.
+
+For details on why these rules exiist, see [Welcome to /r/gamedev 2020 Edition](https://www.reddit.com/r/gamedev/comments/g1xe1f/welcome_to_rgamedev_2020_edition_read_this_first/).
+
+Label 10, Count 1
+The results of the precisionFDA *Precision Immunology App-a-thon* are now available [here](https://go.usa.gov/xH4Nh). Thank you to everyone in the r/artificial community who participated, and congratulations to our top performers in each of the six evaluation categories! 
+
+\#PrecisionImmunology #DataScienceforCOVID #AdaptiveImmunity #DataScienceChallenge #DataScience #COVID19
+
+Label 11, Count 1
+Can anyone here tell me the main difference between the 2 and if the Fortigate/FortiWiFi 60F is a suitable upgrade from the Cisco 4221 that the company I'm working for is currently using?
+
+What I'm mostly concerned about is increasing the aggregate throughput, and the [4221 is specced for 35-75Mbps](https://netmode.com/product/new-cisco-isr4221k9-35mbps-75mbps-system-throughtput-2-wanlan-ports-1-sfp-port-multi-core-cpu2-nim/#:~:text=New%20Cisco%20ISR4221%2FK9%2035Mbps-75Mbps%20system%20throughtput%2C%202%20WAN%2FLAN,MPN%3A%20ISR4221%2FK9%20Condition%3A%20NEW%20Availability%3A%20%E2%97%8F%20In%20Stock), and the Fortigate has bunch of throughput mentioned in [this data sheet](https://www.firewalls.com/comparison-f-series-fortigate)
+
+Label 12, Count 1
+Regarding the the Microscope application of openAI:
+
+https://microscope.openai.com/models/contrastive_4x/image_block_4_5_Add_6_0/44
+
+** Question **
+
+One can see two sets of images generated from the feature visualization. 
+One is "Channel optimization: objective results in a repeating pattern." and the other is  "Neuron optimization: objective shows spatial preferences.".
+
+What optimization techniques are they refering to? How does generating these images differ for the respective classes?
+
+Label 13, Count 1
+ 
+
+[http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf](http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf)
+
+This " Long-and Short-Term Forecasting for Portfolio Selection with Transaction Costs" paper claims it can produce positive returns even during the down market times.
+
+Typical problems with the classical methods of portfolio rebalancing was that they were commission fees oblivious, so their models and results were quite not realistic. Ever since then, there has been numerous ways found to incorporate the said commission fees .... etc
+
+And then I came across this LSPE paper but the problem is i have no idea what they are talking about.
+
+I get that there are long-term portfolios that get rebalanced every d days, while there are short-term portfolios that when mod(t,d) != 0, then the agent can choose to update to the short term portfolio.
+
+But I have no idea after "the transition paths" part. What are transition paths? what purpose do they serve and what are their dimensions and how are they used?
+
+Label 14, Count 1
+This is a small little exercise I want to make sure to get right on. Heat exchanger operates between temperatures of 100 and 1000 celsius. Thermal energy that moves from higher temperature source has a energy of 169,68 MJ and lowe 49,69 MJ. And with that I need to calculate the net entrophy difference for the heat exchanger... it’s not just 1,2 MJ/k, no? dS = dQ / T so 120 MJ / 100 c = 1,2
+
+Label 15, Count 1
+🚀We are delighted to announce that we engaged @QuillAudits to conduct the #security audit of our $AVS staking contract. They have now successfully completed the #audit and confirmed that our #staking platform is safe.
+
+Read report on #AlgoVest audit here:
+http://algovestaudit.space
+
+Label 16, Count 1
+I'm trying to make an AI that can ideally but not necessarily be integrated into a website that is able to recognise specific features of an image. In this case it's for identifying the colouring of hedgehogs so something that can be trained to recognise parts of things as well as what colour they are would be needed. It's namely the eye colour, nose colour and quill colour that needs done at the bare minimum. If anyone could point me to something that is able to do all this as well as how to do it if there's no other tutorial it would be greatly appreciated.
+
+Label 17, Count 1
+Why isn’t MLCommons (MLPerf) constantly adding new results? Is there a better resource for benchmark results of various inferencing ASICs?
+
+Label 18, Count 1
+I will be interviewing Matei Zatreanu (Founder System2) for the Judgment Call Podcast - what should I ask him?
+
+Label 19, Count 1
+I currently manage 7 hotels and an RV park. We are looking to replace the old meraki APs that are around the RV park but I've never done an RV park Wifi setup. The hotels are all Unifi gear (before my time) so I was looking to maybe do something similar to the RV park but figured I would do my due diligence and look for other options. I have two buildings in the park, one in the top left corner and one in more or less the middle. I have hardline to those two buildings but not to anywhere else around the site. I understand that it would be best to hardline everything but that just isn't something I can do at the moment. I have power available everywhere on site.  
+
+
+My plan was to use maybe 4 Unifi mesh pros handlined with two on both buildings on opposite sides. Then place maybe 4-6 mesh (non pro) around the park to work as a mesh system.   
+
+
+The park is around 100 spots fairly tightly packed. I have 600/35 coming in.  
+
+
+Any other tips or companies I should look into for my APs?
+
+Label 20, Count 1
+Is there a way, or an RFC to catch some exceptions EXCEPT some other exceptions?
+
+&amp;#x200B;
+
+Something like this:
+
+    try {...}
+    catch (Throwable ^ LogicException $e) { ... }
+
+Instead of this:
+
+    try {... }
+    catch (LogicException $e) { throw $e; } // Seems redundant
+    catch (Throwable $e) { ... }
+
+Where `LogicException` is a child class of the `Throwable` class.
+
+Label 1, Count 2
+Hi all,
+
+Let's say I have a hollow tube with a rope wound around it, one end of the rope is fixed and I pull on the other end of the rope, this will tension the rope around the tube (which can't rotate). This tension will then exert pressure on the tube surface.
+
+If the tube wall is too thin, it will buckle. How would I go about calculating the minimum wall thickness of the tube for a certain rope tension, so that it won't fail?
+
+I'm familiar with the Eytelwein equation and am also curious if/how this problem relates to it.
+
+Thanks in advance!
+
+Label 2, Count 2
+
+
+
+How common is EMI issues on spaceships and is it something that is a easy fix?  Reason I ask is recently Virgin Galactic’s VSS unity had a EMI issue that resulted in the aborted December flight and February flight.  They plan to fly in May, but is that even possible with a EMI issue?
+
+Label 3, Count 2
+Hi. I live in earthquake country in a two-story wood frame house and last year I hired a structural engineer to draw up some plans for a seismic retrofit/upgrade. At that time, I discovered along with his EIT an odd feature of the concrete foundation: on one side of the house, the foundation must be at least 12” deep/wide (inside-outside) and the very short cripple walls (~12”)are not directly under the exterior wall. Instead, the exterior wall is roughly 8” further out. So the cripple walls aren’t directly bearing the load of the exterior wall as I expected. I passed this on to the engineer but he drew up retrofit plans that make no mention of the exterior walls, and only reference the cripple walls visible and accessible from the basement. Is this an oversight? I ask because I have already had to point out two oversights/errors in the documentation. 
+
+Any thoughts greatly appreciated.
+
+Label 4, Count 2
+My roommate and I were discussing 2 and 4 stroke engines the other night. The question came up, would it be possible to construct an engine so that one side is 2 stroke and the other side is 4 stroke. We came down to the answer of if you had a "V" config and the same crankshaft was timed to two different camshafts and had scavenge air on the 2 stroke side and intake valves on the 4 stroke side it could possibly work... but the balance would be terrible and would be a nightmare to trouble shoot if there was an issue with it. Any thoughts on how this could be done?
+
+Label 5, Count 2
+Not sure if this is the proper place to pose this question, but I figure this community might be able to provide some insight :)
+
+Yesterday a crew placed down fresh asphalt on my residential road. It looked great! I was super pleased that this was happening, but today I look out my window and they're tearing it right back up! There's a machine out front just grinding it up, and shooting it out the back into a pick up truck. I'm not knowledgeable in asphalt techniques, but on the surface it just really seems like a waste of tax payer dollars :P 
+
+Anyone have a clue why a crew would want to lay fresh asphalt, then dig it back up the next day? Could there have been a problem with the way it was laid down?
+
+Thanks all!
+
+Label 6, Count 2
+Hi all,
+
+So I need some input. I’m currently working on a 2d bird simulator where you play as a bird and can hunt, drink water, get new abilties etc. You will be able to get more birds as you progress with each bird. My question is, ideally what bird would you like for the first bird and would you rather you start from a hatchling alone and need to survivor over time by growing to a full adult where you survive and mate and choose and next and the cycle possibly repeats or you could defend the nest and feed the birds but if you die you switch over to the hatchlings you made and every generation of birds you get to pick an upgrade / new ability. The other option would be simpler where you simply hunt and get water and start / play as an adult and still defend the nest and what not but if you die, you just go back to the previous night save. 
+
+Any input is appreciated!
+
+Label 7, Count 2
+https://iaoip.org/iso279descrip/
+
+Just saw this from someone I know, seems ISO has made an innovation standard to standardize "terminology tools and methods and interactions between relevant parties to enable innovation". 
+
+Is it me, or does innovation typically come from non-standardized processes and sources? I understand the rigid ISO/IATF/LMNQP processes for established systems to ensure repeatability, and needed repeatability in new processes to prove they aren't a fluke, and maybe this is a naming issue, but this seems counterproductive.
+
+Label 8, Count 4
+So a propeller shaft made of stainless steel failed via mainly rotational bending but also torsion. I've tried to do some fracture analysis but tbh I'm stumped.
+
+Idk how you would make a shaft that wouldnt fail the same way? Is changing materials to something that can withstand more stress the only way 🤔
+
+Label 9, Count 1382
+There are only 4 rules:
+
+1. **No show-off posts.** 
+-
+This includes *general feedback*, WIP, screenshots, kickstarters, blogs, memes, "play my game", twitch streams. 
+
+Use [/r/gamedev discord](https://discord.gg/reddit-gamedev), /r/indiegames, /r/playmygame or /r/gamedevscreens, or one of the weekly threads such as Screenshot Saturday.
+
+
+2. **Be specific about your question.** 
+-
+If you are a beginner, [read the FAQ](https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started). Screenshots are OK so long as it illustrates your *specific issues*.
+
+
+3. **Do not solicit employment.** 
+-
+Use /r/inat or /r/gameDevClassifieds. This includes offering free work.
+
+4. **No paid assets.** 
+-
+Use [reddit ads instead](https://www.redditinc.com/advertising). Free assets OK, be sure to specify license.
+
+---
+
+We kindly ask you to consider the rules of the sub before posting a new thread.
+
+For details on why these rules exiist, see [Welcome to /r/gamedev 2020 Edition](https://www.reddit.com/r/gamedev/comments/g1xe1f/welcome_to_rgamedev_2020_edition_read_this_first/).
+
+Label 10, Count 1
+The results of the precisionFDA *Precision Immunology App-a-thon* are now available [here](https://go.usa.gov/xH4Nh). Thank you to everyone in the r/artificial community who participated, and congratulations to our top performers in each of the six evaluation categories! 
+
+\#PrecisionImmunology #DataScienceforCOVID #AdaptiveImmunity #DataScienceChallenge #DataScience #COVID19
+
+Label 11, Count 1
+Can anyone here tell me the main difference between the 2 and if the Fortigate/FortiWiFi 60F is a suitable upgrade from the Cisco 4221 that the company I'm working for is currently using?
+
+What I'm mostly concerned about is increasing the aggregate throughput, and the [4221 is specced for 35-75Mbps](https://netmode.com/product/new-cisco-isr4221k9-35mbps-75mbps-system-throughtput-2-wanlan-ports-1-sfp-port-multi-core-cpu2-nim/#:~:text=New%20Cisco%20ISR4221%2FK9%2035Mbps-75Mbps%20system%20throughtput%2C%202%20WAN%2FLAN,MPN%3A%20ISR4221%2FK9%20Condition%3A%20NEW%20Availability%3A%20%E2%97%8F%20In%20Stock), and the Fortigate has bunch of throughput mentioned in [this data sheet](https://www.firewalls.com/comparison-f-series-fortigate)
+
+Label 12, Count 1
+Regarding the the Microscope application of openAI:
+
+https://microscope.openai.com/models/contrastive_4x/image_block_4_5_Add_6_0/44
+
+** Question **
+
+One can see two sets of images generated from the feature visualization. 
+One is "Channel optimization: objective results in a repeating pattern." and the other is  "Neuron optimization: objective shows spatial preferences.".
+
+What optimization techniques are they refering to? How does generating these images differ for the respective classes?
+
+Label 13, Count 1
+ 
+
+[http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf](http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf)
+
+This " Long-and Short-Term Forecasting for Portfolio Selection with Transaction Costs" paper claims it can produce positive returns even during the down market times.
+
+Typical problems with the classical methods of portfolio rebalancing was that they were commission fees oblivious, so their models and results were quite not realistic. Ever since then, there has been numerous ways found to incorporate the said commission fees .... etc
+
+And then I came across this LSPE paper but the problem is i have no idea what they are talking about.
+
+I get that there are long-term portfolios that get rebalanced every d days, while there are short-term portfolios that when mod(t,d) != 0, then the agent can choose to update to the short term portfolio.
+
+But I have no idea after "the transition paths" part. What are transition paths? what purpose do they serve and what are their dimensions and how are they used?
+
+Label 14, Count 1
+This is a small little exercise I want to make sure to get right on. Heat exchanger operates between temperatures of 100 and 1000 celsius. Thermal energy that moves from higher temperature source has a energy of 169,68 MJ and lowe 49,69 MJ. And with that I need to calculate the net entrophy difference for the heat exchanger... it’s not just 1,2 MJ/k, no? dS = dQ / T so 120 MJ / 100 c = 1,2
+
+Label 15, Count 1
+🚀We are delighted to announce that we engaged @QuillAudits to conduct the #security audit of our $AVS staking contract. They have now successfully completed the #audit and confirmed that our #staking platform is safe.
+
+Read report on #AlgoVest audit here:
+http://algovestaudit.space
+
+Label 16, Count 1
+I'm trying to make an AI that can ideally but not necessarily be integrated into a website that is able to recognise specific features of an image. In this case it's for identifying the colouring of hedgehogs so something that can be trained to recognise parts of things as well as what colour they are would be needed. It's namely the eye colour, nose colour and quill colour that needs done at the bare minimum. If anyone could point me to something that is able to do all this as well as how to do it if there's no other tutorial it would be greatly appreciated.
+
+Label 17, Count 1
+Why isn’t MLCommons (MLPerf) constantly adding new results? Is there a better resource for benchmark results of various inferencing ASICs?
+
+Label 18, Count 1
+I will be interviewing Matei Zatreanu (Founder System2) for the Judgment Call Podcast - what should I ask him?
+
+Label 19, Count 1
+I currently manage 7 hotels and an RV park. We are looking to replace the old meraki APs that are around the RV park but I've never done an RV park Wifi setup. The hotels are all Unifi gear (before my time) so I was looking to maybe do something similar to the RV park but figured I would do my due diligence and look for other options. I have two buildings in the park, one in the top left corner and one in more or less the middle. I have hardline to those two buildings but not to anywhere else around the site. I understand that it would be best to hardline everything but that just isn't something I can do at the moment. I have power available everywhere on site.  
+
+
+My plan was to use maybe 4 Unifi mesh pros handlined with two on both buildings on opposite sides. Then place maybe 4-6 mesh (non pro) around the park to work as a mesh system.   
+
+
+The park is around 100 spots fairly tightly packed. I have 600/35 coming in.  
+
+
+Any other tips or companies I should look into for my APs?
+
+Label 20, Count 1
+Is there a way, or an RFC to catch some exceptions EXCEPT some other exceptions?
+
+&amp;#x200B;
+
+Something like this:
+
+    try {...}
+    catch (Throwable ^ LogicException $e) { ... }
+
+Instead of this:
+
+    try {... }
+    catch (LogicException $e) { throw $e; } // Seems redundant
+    catch (Throwable $e) { ... }
+
+Where `LogicException` is a child class of the `Throwable` class.
+
+Label 1, Count 2
+Hi all,
+
+Let's say I have a hollow tube with a rope wound around it, one end of the rope is fixed and I pull on the other end of the rope, this will tension the rope around the tube (which can't rotate). This tension will then exert pressure on the tube surface.
+
+If the tube wall is too thin, it will buckle. How would I go about calculating the minimum wall thickness of the tube for a certain rope tension, so that it won't fail?
+
+I'm familiar with the Eytelwein equation and am also curious if/how this problem relates to it.
+
+Thanks in advance!
+
+Label 2, Count 2
+
+
+
+How common is EMI issues on spaceships and is it something that is a easy fix?  Reason I ask is recently Virgin Galactic’s VSS unity had a EMI issue that resulted in the aborted December flight and February flight.  They plan to fly in May, but is that even possible with a EMI issue?
+
+Label 3, Count 2
+Hi. I live in earthquake country in a two-story wood frame house and last year I hired a structural engineer to draw up some plans for a seismic retrofit/upgrade. At that time, I discovered along with his EIT an odd feature of the concrete foundation: on one side of the house, the foundation must be at least 12” deep/wide (inside-outside) and the very short cripple walls (~12”)are not directly under the exterior wall. Instead, the exterior wall is roughly 8” further out. So the cripple walls aren’t directly bearing the load of the exterior wall as I expected. I passed this on to the engineer but he drew up retrofit plans that make no mention of the exterior walls, and only reference the cripple walls visible and accessible from the basement. Is this an oversight? I ask because I have already had to point out two oversights/errors in the documentation. 
+
+Any thoughts greatly appreciated.
+
+Label 4, Count 2
+My roommate and I were discussing 2 and 4 stroke engines the other night. The question came up, would it be possible to construct an engine so that one side is 2 stroke and the other side is 4 stroke. We came down to the answer of if you had a "V" config and the same crankshaft was timed to two different camshafts and had scavenge air on the 2 stroke side and intake valves on the 4 stroke side it could possibly work... but the balance would be terrible and would be a nightmare to trouble shoot if there was an issue with it. Any thoughts on how this could be done?
+
+Label 5, Count 2
+Not sure if this is the proper place to pose this question, but I figure this community might be able to provide some insight :)
+
+Yesterday a crew placed down fresh asphalt on my residential road. It looked great! I was super pleased that this was happening, but today I look out my window and they're tearing it right back up! There's a machine out front just grinding it up, and shooting it out the back into a pick up truck. I'm not knowledgeable in asphalt techniques, but on the surface it just really seems like a waste of tax payer dollars :P 
+
+Anyone have a clue why a crew would want to lay fresh asphalt, then dig it back up the next day? Could there have been a problem with the way it was laid down?
+
+Thanks all!
+
+Label 6, Count 2
+Hi all,
+
+So I need some input. I’m currently working on a 2d bird simulator where you play as a bird and can hunt, drink water, get new abilties etc. You will be able to get more birds as you progress with each bird. My question is, ideally what bird would you like for the first bird and would you rather you start from a hatchling alone and need to survivor over time by growing to a full adult where you survive and mate and choose and next and the cycle possibly repeats or you could defend the nest and feed the birds but if you die you switch over to the hatchlings you made and every generation of birds you get to pick an upgrade / new ability. The other option would be simpler where you simply hunt and get water and start / play as an adult and still defend the nest and what not but if you die, you just go back to the previous night save. 
+
+Any input is appreciated!
+
+Label 7, Count 2
+https://iaoip.org/iso279descrip/
+
+Just saw this from someone I know, seems ISO has made an innovation standard to standardize "terminology tools and methods and interactions between relevant parties to enable innovation". 
+
+Is it me, or does innovation typically come from non-standardized processes and sources? I understand the rigid ISO/IATF/LMNQP processes for established systems to ensure repeatability, and needed repeatability in new processes to prove they aren't a fluke, and maybe this is a naming issue, but this seems counterproductive.
+
+Label 8, Count 4
+So a propeller shaft made of stainless steel failed via mainly rotational bending but also torsion. I've tried to do some fracture analysis but tbh I'm stumped.
+
+Idk how you would make a shaft that wouldnt fail the same way? Is changing materials to something that can withstand more stress the only way 🤔
+
+Label 9, Count 1382
+There are only 4 rules:
+
+1. **No show-off posts.** 
+-
+This includes *general feedback*, WIP, screenshots, kickstarters, blogs, memes, "play my game", twitch streams. 
+
+Use [/r/gamedev discord](https://discord.gg/reddit-gamedev), /r/indiegames, /r/playmygame or /r/gamedevscreens, or one of the weekly threads such as Screenshot Saturday.
+
+
+2. **Be specific about your question.** 
+-
+If you are a beginner, [read the FAQ](https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started). Screenshots are OK so long as it illustrates your *specific issues*.
+
+
+3. **Do not solicit employment.** 
+-
+Use /r/inat or /r/gameDevClassifieds. This includes offering free work.
+
+4. **No paid assets.** 
+-
+Use [reddit ads instead](https://www.redditinc.com/advertising). Free assets OK, be sure to specify license.
+
+---
+
+We kindly ask you to consider the rules of the sub before posting a new thread.
+
+For details on why these rules exiist, see [Welcome to /r/gamedev 2020 Edition](https://www.reddit.com/r/gamedev/comments/g1xe1f/welcome_to_rgamedev_2020_edition_read_this_first/).
+
+Label 10, Count 1
+The results of the precisionFDA *Precision Immunology App-a-thon* are now available [here](https://go.usa.gov/xH4Nh). Thank you to everyone in the r/artificial community who participated, and congratulations to our top performers in each of the six evaluation categories! 
+
+\#PrecisionImmunology #DataScienceforCOVID #AdaptiveImmunity #DataScienceChallenge #DataScience #COVID19
+
+Label 11, Count 1
+Can anyone here tell me the main difference between the 2 and if the Fortigate/FortiWiFi 60F is a suitable upgrade from the Cisco 4221 that the company I'm working for is currently using?
+
+What I'm mostly concerned about is increasing the aggregate throughput, and the [4221 is specced for 35-75Mbps](https://netmode.com/product/new-cisco-isr4221k9-35mbps-75mbps-system-throughtput-2-wanlan-ports-1-sfp-port-multi-core-cpu2-nim/#:~:text=New%20Cisco%20ISR4221%2FK9%2035Mbps-75Mbps%20system%20throughtput%2C%202%20WAN%2FLAN,MPN%3A%20ISR4221%2FK9%20Condition%3A%20NEW%20Availability%3A%20%E2%97%8F%20In%20Stock), and the Fortigate has bunch of throughput mentioned in [this data sheet](https://www.firewalls.com/comparison-f-series-fortigate)
+
+Label 12, Count 1
+Regarding the the Microscope application of openAI:
+
+https://microscope.openai.com/models/contrastive_4x/image_block_4_5_Add_6_0/44
+
+** Question **
+
+One can see two sets of images generated from the feature visualization. 
+One is "Channel optimization: objective results in a repeating pattern." and the other is  "Neuron optimization: objective shows spatial preferences.".
+
+What optimization techniques are they refering to? How does generating these images differ for the respective classes?
+
+Label 13, Count 1
+ 
+
+[http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf](http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf)
+
+This " Long-and Short-Term Forecasting for Portfolio Selection with Transaction Costs" paper claims it can produce positive returns even during the down market times.
+
+Typical problems with the classical methods of portfolio rebalancing was that they were commission fees oblivious, so their models and results were quite not realistic. Ever since then, there has been numerous ways found to incorporate the said commission fees .... etc
+
+And then I came across this LSPE paper but the problem is i have no idea what they are talking about.
+
+I get that there are long-term portfolios that get rebalanced every d days, while there are short-term portfolios that when mod(t,d) != 0, then the agent can choose to update to the short term portfolio.
+
+But I have no idea after "the transition paths" part. What are transition paths? what purpose do they serve and what are their dimensions and how are they used?
+
+Label 14, Count 1
+This is a small little exercise I want to make sure to get right on. Heat exchanger operates between temperatures of 100 and 1000 celsius. Thermal energy that moves from higher temperature source has a energy of 169,68 MJ and lowe 49,69 MJ. And with that I need to calculate the net entrophy difference for the heat exchanger... it’s not just 1,2 MJ/k, no? dS = dQ / T so 120 MJ / 100 c = 1,2
+
+Label 15, Count 1
+🚀We are delighted to announce that we engaged @QuillAudits to conduct the #security audit of our $AVS staking contract. They have now successfully completed the #audit and confirmed that our #staking platform is safe.
+
+Read report on #AlgoVest audit here:
+http://algovestaudit.space
+
+Label 16, Count 1
+I'm trying to make an AI that can ideally but not necessarily be integrated into a website that is able to recognise specific features of an image. In this case it's for identifying the colouring of hedgehogs so something that can be trained to recognise parts of things as well as what colour they are would be needed. It's namely the eye colour, nose colour and quill colour that needs done at the bare minimum. If anyone could point me to something that is able to do all this as well as how to do it if there's no other tutorial it would be greatly appreciated.
+
+Label 17, Count 1
+Why isn’t MLCommons (MLPerf) constantly adding new results? Is there a better resource for benchmark results of various inferencing ASICs?
+
+Label 18, Count 1
+I will be interviewing Matei Zatreanu (Founder System2) for the Judgment Call Podcast - what should I ask him?
+
+Label 19, Count 1
+I currently manage 7 hotels and an RV park. We are looking to replace the old meraki APs that are around the RV park but I've never done an RV park Wifi setup. The hotels are all Unifi gear (before my time) so I was looking to maybe do something similar to the RV park but figured I would do my due diligence and look for other options. I have two buildings in the park, one in the top left corner and one in more or less the middle. I have hardline to those two buildings but not to anywhere else around the site. I understand that it would be best to hardline everything but that just isn't something I can do at the moment. I have power available everywhere on site.  
+
+
+My plan was to use maybe 4 Unifi mesh pros handlined with two on both buildings on opposite sides. Then place maybe 4-6 mesh (non pro) around the park to work as a mesh system.   
+
+
+The park is around 100 spots fairly tightly packed. I have 600/35 coming in.  
+
+
+Any other tips or companies I should look into for my APs?
+
+Label 20, Count 1
+Is there a way, or an RFC to catch some exceptions EXCEPT some other exceptions?
+
+&amp;#x200B;
+
+Something like this:
+
+    try {...}
+    catch (Throwable ^ LogicException $e) { ... }
+
+Instead of this:
+
+    try {... }
+    catch (LogicException $e) { throw $e; } // Seems redundant
+    catch (Throwable $e) { ... }
+
+Where `LogicException` is a child class of the `Throwable` class.
+
+Label 1, Count 2
+Hi all,
+
+Let's say I have a hollow tube with a rope wound around it, one end of the rope is fixed and I pull on the other end of the rope, this will tension the rope around the tube (which can't rotate). This tension will then exert pressure on the tube surface.
+
+If the tube wall is too thin, it will buckle. How would I go about calculating the minimum wall thickness of the tube for a certain rope tension, so that it won't fail?
+
+I'm familiar with the Eytelwein equation and am also curious if/how this problem relates to it.
+
+Thanks in advance!
+
+Label 2, Count 2
+
+
+
+How common is EMI issues on spaceships and is it something that is a easy fix?  Reason I ask is recently Virgin Galactic’s VSS unity had a EMI issue that resulted in the aborted December flight and February flight.  They plan to fly in May, but is that even possible with a EMI issue?
+
+Label 3, Count 2
+Hi. I live in earthquake country in a two-story wood frame house and last year I hired a structural engineer to draw up some plans for a seismic retrofit/upgrade. At that time, I discovered along with his EIT an odd feature of the concrete foundation: on one side of the house, the foundation must be at least 12” deep/wide (inside-outside) and the very short cripple walls (~12”)are not directly under the exterior wall. Instead, the exterior wall is roughly 8” further out. So the cripple walls aren’t directly bearing the load of the exterior wall as I expected. I passed this on to the engineer but he drew up retrofit plans that make no mention of the exterior walls, and only reference the cripple walls visible and accessible from the basement. Is this an oversight? I ask because I have already had to point out two oversights/errors in the documentation. 
+
+Any thoughts greatly appreciated.
+
+Label 4, Count 2
+My roommate and I were discussing 2 and 4 stroke engines the other night. The question came up, would it be possible to construct an engine so that one side is 2 stroke and the other side is 4 stroke. We came down to the answer of if you had a "V" config and the same crankshaft was timed to two different camshafts and had scavenge air on the 2 stroke side and intake valves on the 4 stroke side it could possibly work... but the balance would be terrible and would be a nightmare to trouble shoot if there was an issue with it. Any thoughts on how this could be done?
+
+Label 5, Count 2
+Not sure if this is the proper place to pose this question, but I figure this community might be able to provide some insight :)
+
+Yesterday a crew placed down fresh asphalt on my residential road. It looked great! I was super pleased that this was happening, but today I look out my window and they're tearing it right back up! There's a machine out front just grinding it up, and shooting it out the back into a pick up truck. I'm not knowledgeable in asphalt techniques, but on the surface it just really seems like a waste of tax payer dollars :P 
+
+Anyone have a clue why a crew would want to lay fresh asphalt, then dig it back up the next day? Could there have been a problem with the way it was laid down?
+
+Thanks all!
+
+Label 6, Count 2
+Hi all,
+
+So I need some input. I’m currently working on a 2d bird simulator where you play as a bird and can hunt, drink water, get new abilties etc. You will be able to get more birds as you progress with each bird. My question is, ideally what bird would you like for the first bird and would you rather you start from a hatchling alone and need to survivor over time by growing to a full adult where you survive and mate and choose and next and the cycle possibly repeats or you could defend the nest and feed the birds but if you die you switch over to the hatchlings you made and every generation of birds you get to pick an upgrade / new ability. The other option would be simpler where you simply hunt and get water and start / play as an adult and still defend the nest and what not but if you die, you just go back to the previous night save. 
+
+Any input is appreciated!
+
+Label 7, Count 2
+https://iaoip.org/iso279descrip/
+
+Just saw this from someone I know, seems ISO has made an innovation standard to standardize "terminology tools and methods and interactions between relevant parties to enable innovation". 
+
+Is it me, or does innovation typically come from non-standardized processes and sources? I understand the rigid ISO/IATF/LMNQP processes for established systems to ensure repeatability, and needed repeatability in new processes to prove they aren't a fluke, and maybe this is a naming issue, but this seems counterproductive.
+
+Label 8, Count 4
+So a propeller shaft made of stainless steel failed via mainly rotational bending but also torsion. I've tried to do some fracture analysis but tbh I'm stumped.
+
+Idk how you would make a shaft that wouldnt fail the same way? Is changing materials to something that can withstand more stress the only way 🤔
+
+Label 9, Count 1382
+There are only 4 rules:
+
+1. **No show-off posts.** 
+-
+This includes *general feedback*, WIP, screenshots, kickstarters, blogs, memes, "play my game", twitch streams. 
+
+Use [/r/gamedev discord](https://discord.gg/reddit-gamedev), /r/indiegames, /r/playmygame or /r/gamedevscreens, or one of the weekly threads such as Screenshot Saturday.
+
+
+2. **Be specific about your question.** 
+-
+If you are a beginner, [read the FAQ](https://www.reddit.com/r/gamedev/wiki/faq#wiki_getting_started). Screenshots are OK so long as it illustrates your *specific issues*.
+
+
+3. **Do not solicit employment.** 
+-
+Use /r/inat or /r/gameDevClassifieds. This includes offering free work.
+
+4. **No paid assets.** 
+-
+Use [reddit ads instead](https://www.redditinc.com/advertising). Free assets OK, be sure to specify license.
+
+---
+
+We kindly ask you to consider the rules of the sub before posting a new thread.
+
+For details on why these rules exiist, see [Welcome to /r/gamedev 2020 Edition](https://www.reddit.com/r/gamedev/comments/g1xe1f/welcome_to_rgamedev_2020_edition_read_this_first/).
+
+Label 10, Count 1
+The results of the precisionFDA *Precision Immunology App-a-thon* are now available [here](https://go.usa.gov/xH4Nh). Thank you to everyone in the r/artificial community who participated, and congratulations to our top performers in each of the six evaluation categories! 
+
+\#PrecisionImmunology #DataScienceforCOVID #AdaptiveImmunity #DataScienceChallenge #DataScience #COVID19
+
+Label 11, Count 1
+Can anyone here tell me the main difference between the 2 and if the Fortigate/FortiWiFi 60F is a suitable upgrade from the Cisco 4221 that the company I'm working for is currently using?
+
+What I'm mostly concerned about is increasing the aggregate throughput, and the [4221 is specced for 35-75Mbps](https://netmode.com/product/new-cisco-isr4221k9-35mbps-75mbps-system-throughtput-2-wanlan-ports-1-sfp-port-multi-core-cpu2-nim/#:~:text=New%20Cisco%20ISR4221%2FK9%2035Mbps-75Mbps%20system%20throughtput%2C%202%20WAN%2FLAN,MPN%3A%20ISR4221%2FK9%20Condition%3A%20NEW%20Availability%3A%20%E2%97%8F%20In%20Stock), and the Fortigate has bunch of throughput mentioned in [this data sheet](https://www.firewalls.com/comparison-f-series-fortigate)
+
+Label 12, Count 1
+Regarding the the Microscope application of openAI:
+
+https://microscope.openai.com/models/contrastive_4x/image_block_4_5_Add_6_0/44
+
+** Question **
+
+One can see two sets of images generated from the feature visualization. 
+One is "Channel optimization: objective results in a repeating pattern." and the other is  "Neuron optimization: objective shows spatial preferences.".
+
+What optimization techniques are they refering to? How does generating these images differ for the respective classes?
+
+Label 13, Count 1
+ 
+
+[http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf](http://proceedings.mlr.press/v108/uziel20a/uziel20a.pdf)
+
+This " Long-and Short-Term Forecasting for Portfolio Selection with Transaction Costs" paper claims it can produce positive returns even during the down market times.
+
+Typical problems with the classical methods of portfolio rebalancing was that they were commission fees oblivious, so their models and results were quite not realistic. Ever since then, there has been numerous ways found to incorporate the said commission fees .... etc
+
+And then I came across this LSPE paper but the problem is i have no idea what they are talking about.
+
+I get that there are long-term portfolios that get rebalanced every d days, while there are short-term portfolios that when mod(t,d) != 0, then the agent can choose to update to the short term portfolio.
+
+But I have no idea after "the transition paths" part. What are transition paths? what purpose do they serve and what are their dimensions and how are they used?
+
+Label 14, Count 1
+This is a small little exercise I want to make sure to get right on. Heat exchanger operates between temperatures of 100 and 1000 celsius. Thermal energy that moves from higher temperature source has a energy of 169,68 MJ and lowe 49,69 MJ. And with that I need to calculate the net entrophy difference for the heat exchanger... it’s not just 1,2 MJ/k, no? dS = dQ / T so 120 MJ / 100 c = 1,2
+
+Label 15, Count 1
+🚀We are delighted to announce that we engaged @QuillAudits to conduct the #security audit of our $AVS staking contract. They have now successfully completed the #audit and confirmed that our #staking platform is safe.
+
+Read report on #AlgoVest audit here:
+http://algovestaudit.space
+
+Label 16, Count 1
+I'm trying to make an AI that can ideally but not necessarily be integrated into a website that is able to recognise specific features of an image. In this case it's for identifying the colouring of hedgehogs so something that can be trained to recognise parts of things as well as what colour they are would be needed. It's namely the eye colour, nose colour and quill colour that needs done at the bare minimum. If anyone could point me to something that is able to do all this as well as how to do it if there's no other tutorial it would be greatly appreciated.
+
+Label 17, Count 1
+Why isn’t MLCommons (MLPerf) constantly adding new results? Is there a better resource for benchmark results of various inferencing ASICs?
+
+Label 18, Count 1
+I will be interviewing Matei Zatreanu (Founder System2) for the Judgment Call Podcast - what should I ask him?
+
+Label 19, Count 1
+I currently manage 7 hotels and an RV park. We are looking to replace the old meraki APs that are around the RV park but I've never done an RV park Wifi setup. The hotels are all Unifi gear (before my time) so I was looking to maybe do something similar to the RV park but figured I would do my due diligence and look for other options. I have two buildings in the park, one in the top left corner and one in more or less the middle. I have hardline to those two buildings but not to anywhere else around the site. I understand that it would be best to hardline everything but that just isn't something I can do at the moment. I have power available everywhere on site.  
+
+
+My plan was to use maybe 4 Unifi mesh pros handlined with two on both buildings on opposite sides. Then place maybe 4-6 mesh (non pro) around the park to work as a mesh system.   
+
+
+The park is around 100 spots fairly tightly packed. I have 600/35 coming in.  
+
+
+Any other tips or companies I should look into for my APs?
+
+Label 20, Count 1
+Is there a way, or an RFC to catch some exceptions EXCEPT some other exceptions?
+
+&amp;#x200B;
+
+Something like this:
+
+    try {...}
+    catch (Throwable ^ LogicException $e) { ... }
+
+Instead of this:
+
+    try {... }
+    catch (LogicException $e) { throw $e; } // Seems redundant
+    catch (Throwable $e) { ... }
+
+Where `LogicException` is a child class of the `Throwable` class.
