@@ -1,0 +1,44 @@
+import json
+import pickle
+
+from scipy.cluster.hierarchy import linkage
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+# from data.json, craete two lists: textBodies[] and subreddit[]
+with open('data.json') as f:
+    data = json.load(f)
+# dict_keys(['selftext', 'subreddit', 'title'])
+
+print(type(data["selftext"]["139"]), data["selftext"]["139"])
+texts = []
+subreddits = []
+textsValues = list(data["selftext"].values())
+subredditsValues = list(data["subreddit"].values())
+print("len before", len(textsValues), len(subredditsValues))
+for i in range(len(textsValues)):
+    if textsValues[i] != "":
+        texts.append(textsValues[i])
+        subreddits.append(subredditsValues[i])
+
+print("len after", len(texts), len(subreddits))
+print("complete dict to corresponding lists")
+
+with open("texts.txt", "wb") as f:
+    pickle.dump(texts, f)
+with open("subreddits.txt", "wb") as f:
+    pickle.dump(subreddits, f)
+
+
+vectorizer = TfidfVectorizer(stop_words="english")
+vecs = vectorizer.fit_transform(texts)
+v = vecs.toarray()
+print("vectorizing done")
+
+# calculate distances *takes much time
+z = linkage(v, metric='cosine')
+print("linkage done")
+
+with open("cosDist.binaryfile","wb") as f:
+    pickle.dump(z, f)
+
+
