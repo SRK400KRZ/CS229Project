@@ -64,3 +64,9 @@ Python
   /r/php
 /r/virtualreality
 /r/opensource
+
+
+HOWTO
+Run files in the following order
+RedditFetcher.py -> Vectorizing.py -> Clustering.py
+Note: for the sake of convenience, classes are separated and never called consecutively.
